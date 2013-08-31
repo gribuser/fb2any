@@ -1,0 +1,4 @@
+CODE_VER=2.0.305.3r
+TITLE="REB1100 Times New Roman Cyr 12/16"
+TITLE="REB1100 Software Update [2.0.305.3r Russian]"
+AUTHOR="Ivan Knyazev JOHN[QKK]"

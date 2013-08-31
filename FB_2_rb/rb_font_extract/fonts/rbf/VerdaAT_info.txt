@@ -1,0 +1,3 @@
+TITLE="REB1100 Internal Cyrillic fonts v. 1.2 (Verdana 10/14)"
+AUTHOR="Andrew Thielmann"
+ISBN=1.2 atil Cyrillic Release

@@ -1,0 +1,3 @@
+TITLE="Original Rocket eBook fonts"
+AUTHOR="Andrew Thielmann"
+ISBN=0.0 1.3.75 atil Original Release

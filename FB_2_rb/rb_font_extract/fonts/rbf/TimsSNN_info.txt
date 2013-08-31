@@ -1,0 +1,20 @@
+TITLE="Russian fonts by Serge Nozhenko. REB100 adopted by Equinox"
+AUTHOR="Serge Nozhenko & Equinox"
+ISBN=0.0 2.0.235 atil Original Release
+
+Based on this version:
+
+TITLE="Times New Roman 12/16pt fonts, v1.0"
+AUTHOR="Serge Nozhenko"
+ISBN=0.0 1.3.75 atil Russian Release
+
+This is a replacement for NuvoMedia's Rocket eBook default fonts.
+The package contains Russian 12pt small, 16pt large Times New Roman
+fonts and modified fixed-width Courier New font.
+
+Note that all fonts are Russian, not Cyrillic (i.e. characters in range
+0xC0-0xFF and 0xA8/0xB8 "yo" are replaced with Russian ones, but no other
+Cyrillic letters are included).
+
+Homepage: http://www.aha.ru/~snn/ebook/
+Feedback: Please send any comments to snn@aha.ru

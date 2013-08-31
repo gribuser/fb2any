@@ -1,0 +1,77 @@
+a {
+	color : #0002CC;
+}
+
+blockquote{
+	margin-left : 4em;
+	margin-right : 0.2em;
+	margin-top : 1em;
+}
+
+body,p,div {
+	color : #000000;
+	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-align : justify;
+}
+
+h1{
+	font-size : 160%;
+	font-style : normal;
+	font-weight : bold;
+	margin-left : 0px;
+	page-break-before : always;
+	text-align : left;
+}
+
+h2{
+	font-size : 130%;
+	font-style : normal;
+	font-weight : bold;
+	page-break-before : always;
+	text-align : left;
+}
+
+h3{
+	font-size : 110%;
+	font-style : normal;
+	font-weight : bold;
+	text-align : left;
+}
+
+h4{
+	font-size : 100%;
+	font-style : normal;
+	font-weight : bold;
+	text-align : left;
+}
+
+h5{
+	font-size : 100%;
+	font-style : italic;
+	font-weight : bold;
+	text-align : left;
+}
+
+h6{
+	font-size : 100%;
+	font-style : italic;
+	font-weight : normal;
+	text-align : left;
+}
+
+hr{
+	color : #000000;
+}
+
+small{
+	font-size : 80%;
+}
+
+ul{
+	margin-left : 0;
+}
+
+.epigraph{
+	margin-left : 35%;
+	width : 50%;
+}

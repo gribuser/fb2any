@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XML Spy v4.4 U (http://www.xmlspy.com) by LEGO (LEGO) -->
+<device name="Fixed width text">
+	<displays>
+		<display-mode name="Default" width="80"/>
+	</displays>
+	<fonts>
+		<font name="Default">
+			<font-size name="Default">
+				<normal default-width="1"/>
+				<strong default-width="1"/>
+				<emphasis default-width="1"/>
+				<strongemphasis default-width="1"/>
+			</font-size>
+		</font>
+	</fonts>
+</device>
